@@ -34,7 +34,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: your.email@example.com  
+- 📧 Email: pasupureddyharshajr007@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
 - 🐙 [GitHub](https://github.com/yourusername)  
 
