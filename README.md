@@ -35,8 +35,7 @@
 
 ## 🌐 Connect with Me
 - 📧 Email: pasupureddyharshajr007@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 🐙 [GitHub](https://github.com/yourusername)  
+- 🐙 [GitHub](https://github.com/harshavardhan123)  
 
 ---
 
